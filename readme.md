@@ -131,18 +131,22 @@ M[Multimedia]
   - Fleksibel, dapat menambah VM untuk guru atau staff lainnya
 
 - Cons
-  - Konfigurasi rumit
+  - Konfigurasi rumit untuk pembuatan VM baru
+  - Ada step tambahan dimana anak-anak/admin perlu menghubungkan client dan VM
+  
 ### Beli 25 komputer baru
 - Pros
   - Lebih mudah, tinggal beli dan pasang
   - Tidak perlu maintenance software
 - Cons
   - Harga mahal, sekitar Rp 53.425.000, [referensi komputer](https://www.tokopedia.com/tokohone/komputer-pc-all-in-one-komputer-ultra-tipis-lenovo-komputer-all-in-one-dengan-layar-definisi-tinggi-prosesor-intel-core-i3-i5-i7-16g-1tb-cocok-untuk-kantor-belajar-bekerja-bermain-game-garansi-6-tahun-1731270552600479301) (ini pake cpu keluaran 2012)
-  - Upgrade lebih mahal karena perlu upgrade semua komputer
+  - Upgrade tidak banyak opsi, karena keluaran CPU sudah lam
+
 ### Aster
 - Pros
   - Lebih mudah, tinggal beli dan pasang
   - Tidak perlu maintenance software
 - Cons
-  - Harga 2.640.000 pertahun tapi baru buat software aja, belum hardware
-  - Rentan error saat ada banyak murid yang menggunakan
+  - Harga 24.030.000 untuk 12 orang, pak lantang pernah nanya
+  - Tidak fleksibel, jumlah orang terbatas
+  - Rentan error saat ada banyak murid yang menggunakan, mouse digerakin di komputer A malah gerak di komputer B
